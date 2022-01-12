@@ -40,6 +40,8 @@ Getting a backup host address if it was not possible to connect to the one speci
 
 Automatic restart every 30 minutes.
 
+Encryption of all strings
+
 # Usage
 
 ### BUILD
