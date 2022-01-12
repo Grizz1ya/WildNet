@@ -1,0 +1,1 @@
+pyarmor pack -e " --onefile" WildServer.py
