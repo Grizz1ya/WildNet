@@ -47,7 +47,7 @@ Change host in `Main.cpp`
 `auto HOST = "127.0.0.1";`
 
 Change recovery host address in `Tools.h`
-`#define BACKUPPATH TEXT(XorStr("/Grizz1ya/Testtttt/main/b"))`
+`#define BACKUPPATH TEXT(XorStr("/Grizz1ya/WildNet/main/backuphost"))`
 
 Compile with Realease & x86
 
